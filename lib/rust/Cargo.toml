@@ -1,0 +1,9 @@
+[package]
+name = "wasm-router"
+version = "0.0.1"
+authors = ["Jordan Majd <me@jordanmajd.com>"]
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
